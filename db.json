@@ -1,0 +1,121 @@
+{
+  "seller": [
+    {
+      "name": "Aakash Bhatt",
+      "email": "aakash@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Aaki",
+      "email": "aaki@seller.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "email": "peter@seller.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "Aaki",
+      "email": "aakash@arteryindia.com",
+      "password": "aakash2008",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone 14",
+      "price": "73000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Iphone Product",
+      "image": "https://media.croma.com/image/upload/v1662703541/Croma%20Assets/Communication/Mobiles/Images/261930_q0hq3w.png",
+      "id": 1
+    },
+    {
+      "name": "iphone 11",
+      "price": "50000",
+      "color": "black",
+      "category": "mobile",
+      "description": "agasf",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone11-black-2019?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1611169026000",
+      "id": 2
+    },
+    {
+      "name": "HP Pavilion Aero",
+      "price": "69990",
+      "color": "Pale Rose Gold",
+      "category": "laptop",
+      "description": "Processor: AMD Ryzen 5 7535U (up to 4.55 GHz max boost clock(2i), 16 MB L3 cache, 6 cores, 12 threads)|Memory: 16 GB LPDDR5-6400 MHz RAM (onboard)|Storage: 512 GB PCIe NVMe M.2 SSD",
+      "image": "https://m.media-amazon.com/images/I/718DuNiO7YL._SX679_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Dell Inspiron",
+      "price": "67990",
+      "color": "Silver",
+      "category": "laptop",
+      "description": "12th Gen, i7 processor",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5420/media-gallery/notebook-inspiron-14-5420-2-in-1-gy-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=617&qlt=100,1&resMode=sharp2&size=617,402&chrss=full",
+      "id": 4
+    },
+    {
+      "name": "MacBook Air",
+      "price": "90990",
+      "color": "Silver",
+      "category": "laptop",
+      "description": "M2 chip",
+      "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg",
+      "id": 5
+    },
+    {
+      "name": "Nike Air",
+      "price": "12900",
+      "color": "black",
+      "category": "shoes",
+      "description": "Sport Shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/suarfuqxs5hnrjz4fqo4/air-max-ltd-3-shoes-zDjBNB.png",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@arteryindia.com",
+      "password": "anil",
+      "id": 1
+    },
+    {
+      "name": "Aaki",
+      "email": "aakash@arteryindia.com",
+      "password": "aakash2008",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@arteryindia.com",
+      "password": "aakash2008",
+      "id": 3
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "email": "aakash@arteryindia.com",
+      "address": "Maujpur",
+      "contact": "9873742997",
+      "totalPrice": 193090,
+      "userId": 2,
+      "id": 1
+    }
+  ]
+}

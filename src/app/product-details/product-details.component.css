@@ -1,0 +1,38 @@
+
+.product-details{
+    margin: 50px auto;
+}
+
+.product-image{
+    height: 400px;
+    object-fit: contain;
+    width: 100%;
+}
+
+.product-color{
+    border: 3px solid #000;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+h1,h5,h6{
+    margin-bottom: 20px;
+}
+
+.form-button{
+    margin-right: 20px;
+}
+
+.quantity-group{
+    margin-top: 20px;
+}
+
+.quantity-group button{
+    padding: 10px;
+}
+
+.quantity-group input{
+    padding:10px;
+    width: 50px;
+}
